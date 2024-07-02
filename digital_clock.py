@@ -8,6 +8,7 @@ def time():
     l1.after(1000,time)
 
 
+
 def labels():
     l3=Label(frame1,font=("technology",8),bg="#0e1013",fg="#7f7f7f", text='DAY')
     l3.place(x=135,y=130)
